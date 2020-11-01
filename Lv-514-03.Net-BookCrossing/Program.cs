@@ -10,6 +10,7 @@ namespace Lv_514_03.Net_BookCrossing
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, world!");
         }
     }
 }
